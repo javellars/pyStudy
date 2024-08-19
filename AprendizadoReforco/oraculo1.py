@@ -44,3 +44,10 @@ def ola_mundo( user = "mundo"):
 
 ola_mundo()
 ola_mundo("fernanda")
+
+## plots a partir de funções -> o que aconteceu aqui?
+
+##import pandas as pd # type: ignore
+
+##faithful = pd.read_csv("https://raw.githubusercontent.com/ulissesdias/tt003/main/dados/atv2024_01.csv", index_col = 0)
+##faithful.head()
