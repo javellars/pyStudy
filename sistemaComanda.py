@@ -1,0 +1,1 @@
+## projeto para simular o funcionamento de tirada de comanda e depois pagamento desses pedidos, ordenados por mesa
