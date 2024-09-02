@@ -39,4 +39,15 @@ palavra2 = input('Digite uma palavra: ')
 
 for espaco in palavra2:
     print(f' {espaco}', end='')
+    print( )
 
+## Criação de um retângulo 6x6 usando for loops
+
+linhas = 6
+colunas = 6
+simbolo = '*'
+
+for l in range(linhas):
+    for c in range(colunas):
+        print(simbolo, end= '')
+    print( )
