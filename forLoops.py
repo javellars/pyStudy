@@ -30,3 +30,13 @@ for numero_titulo in range(1,6):
     print('numero título:' + str(numero_titulo))
     for numero_caracteristica in range(5):
         print(numero_caracteristica)
+
+
+
+## for loops aplicando em Strings
+
+palavra2 = input('Digite uma palavra: ')
+
+for espaco in palavra2:
+    print(f' {espaco}', end='')
+
