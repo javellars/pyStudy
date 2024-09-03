@@ -13,3 +13,5 @@ while (item != 'fim'):
 
     item = input('Digite o produto que deseja adicionar: ')
     item.lower()
+
+print(f'Você tem que comprar: {lista_mercado}')

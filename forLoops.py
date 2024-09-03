@@ -51,3 +51,16 @@ for l in range(linhas):
     for c in range(colunas):
         print(simbolo, end= '')
     print( )
+
+
+## while loops -> ótimos pra quando o loop depende de uma condição
+
+valor = 100
+dia = 1
+
+while valor > 20:
+    dia += 1
+    print(f'O dia é {dia} e o valor do produto hoje é {valor}')
+    valor -= 5 
+
+## operador ternário
