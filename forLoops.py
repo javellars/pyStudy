@@ -64,3 +64,13 @@ while valor > 20:
     valor -= 5 
 
 ## operador ternário
+
+idade = 18
+
+ver_idade = 'voto permitido' if idade >= 16 else 'voto não permitido'
+
+print(ver_idade)
+
+## While loop -> Usamos quando não sabemos até onde chegar
+## For loop-> Usamos quando sabemos onde querems chegar
+
