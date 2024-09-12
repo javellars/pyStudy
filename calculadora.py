@@ -20,6 +20,8 @@ x = int(input('Digite o primeiro valor: '))
 y = int(input('Digite o segundo valor: '))
 simbolo = input('Qual equação quer fazer: *, +, -, / ? ')
 
+
+##como que eu melhoro isso?
 if simbolo == '+':
     soma(x,y)
 if simbolo == '*':
@@ -28,3 +30,7 @@ if simbolo == '-':
     subtracao(x,y)
 if simbolo == '/':
     divisao(x,y)
+
+##default -> parâmetro n alteravel (dá pra sobreescrever)
+##non-default -> parametro alteravel
+## non-default sempre vem primeiro q o default!
