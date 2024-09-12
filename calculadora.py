@@ -31,6 +31,3 @@ if simbolo == '-':
 if simbolo == '/':
     divisao(x,y)
 
-##default -> parâmetro n alteravel (dá pra sobreescrever)
-##non-default -> parametro alteravel
-## non-default sempre vem primeiro q o default!
