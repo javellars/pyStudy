@@ -20,3 +20,4 @@ def nome2(nome):
 ## sendo assim, caso eu apenes chame a função, nada será exibido
 ## Caso eu queira exibir o determinado dado armazenado, printar o registro da função é necessário
 print(nome2('Maricota'))
+
