@@ -33,3 +33,11 @@ letras = ['a', 'b', 'c', 'd']
 ## Dessa forma também!!!
 numeros.extend(letras)
 print(numeros)
+
+#                0                  1
+itens = [['item1', 'item2'],['item3', 'item4']]
+#           0         1         0        1
+
+print(itens[0]) # -> imprime a lista 0
+print(itens[0][1]) # ->imprime o index 1 da lista 0
+print(itens[1][1]) # -> imprime o index 1 da lista 1
