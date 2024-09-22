@@ -64,5 +64,4 @@ print(set5)
 print(set6)
 print(set7)
 
-
 # Num geral funciona da mesma forma que com Strings
