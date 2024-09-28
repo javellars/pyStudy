@@ -16,3 +16,6 @@ print(list(filter(remove20, valores)))
 
 # A gente pode simplificar tudo isso aplicando lambda
 print(list(filter(lambda x: x > 20,valores)))
+
+# map -> associa uma função a uma lista
+# flter -> assosia uma função a uma lista, mas retira o resultado daquela função
