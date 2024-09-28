@@ -7,6 +7,7 @@ alunos = {'nome': 'Ana',
 
 print(alunos)
 
+# seleciona os valores iseridos em materiais
 print(alunos.get('materias'))
 
 # pra saber a quantidade de keys
