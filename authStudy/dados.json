@@ -1,0 +1,127 @@
+{
+    "AWS": {
+        "Categoria 1": {
+            "Classe 1": {
+                "Regra de Validade": "Validade = 1 ano",
+                "Sub-Classe 1": [
+                    "Sub-Grupo 1.1",
+                    "Sub-Grupo 1.2"
+                ],
+                "Sub-Classe 2": [
+                    "Sub-Grupo 2.1",
+                    "Sub-Grupo 2.2"
+                ]
+            },
+            "Classe 2": {
+                "Regra de Validade": "Validade = 6 meses",
+                "Sub-Classe 1": [
+                    "Sub-Grupo 2.3",
+                    "Sub-Grupo 2.4"
+                ]
+            }
+        }
+    },
+    "Alura": {
+        "Categoria 1": {
+            "Classe 1": {
+                "Regra de Validade": "Validade = 3 meses",
+                "Sub-Classe 1": [
+                    "Sub-Grupo 3.1",
+                    "Sub-Grupo 3.2"
+                ],
+                "Sub-Classe 2": [
+                    "Sub-Grupo 3.3",
+                    "Sub-Grupo 3.4"
+                ]
+            }
+        }
+    },
+    "Udemy": {
+        "Categoria 1": {
+            "Classe 1": {
+                "Regra de Validade": "Validade = 2 anos",
+                "Sub-Classe 1": [
+                    "Sub-Grupo 4.1",
+                    "Sub-Grupo 4.2"
+                ],
+                "Sub-Classe 2": [
+                    "Sub-Grupo 4.3",
+                    "Sub-Grupo 4.4"
+                ]
+            },
+            "Classe 2": {
+                "Regra de Validade": "Validade = Permanente",
+                "Sub-Classe 1": [
+                    "Sub-Grupo 4.5",
+                    "Sub-Grupo 4.6"
+                ]
+            }
+        }
+    },
+    "Coursera": {
+        "Categoria 1": {
+            "Classe 1": {
+                "Regra de Validade": "Validade = 1 ano",
+                "Sub-Classe 1": [
+                    "Sub-Grupo 5.1",
+                    "Sub-Grupo 5.2"
+                ],
+                "Sub-Classe 2": [
+                    "Sub-Grupo 5.3",
+                    "Sub-Grupo 5.4"
+                ]
+            },
+            "Classe 2": {
+                "Regra de Validade": "Validade = 9 meses",
+                "Sub-Classe 1": [
+                    "Sub-Grupo 5.5",
+                    "Sub-Grupo 5.6"
+                ]
+            }
+        }
+    },
+    "Gifara": {
+        "Categoria 1": {
+            "Classe 1": {
+                "Regra de Validade": "Validade = 6 meses",
+                "Sub-Classe 1": [
+                    "Sub-Grupo 6.1",
+                    "Sub-Grupo 6.2"
+                ],
+                "Sub-Classe 2": [
+                    "Sub-Grupo 6.3",
+                    "Sub-Grupo 6.4"
+                ]
+            },
+            "Classe 2": {
+                "Regra de Validade": "Validade = 3 meses",
+                "Sub-Classe 1": [
+                    "Sub-Grupo 6.5",
+                    "Sub-Grupo 6.6"
+                ]
+            }
+        }
+    },
+    "RocketSeat": {
+        "Categoria 1": {
+            "Classe 1": {
+                "Regra de Validade": "Validade = 1 ano e 6 meses",
+                "Sub-Classe 1": [
+                    "Sub-Grupo 7.1",
+                    "Sub-Grupo 7.2"
+                ],
+                "Sub-Classe 2": [
+                    "Sub-Grupo 7.3",
+                    "Sub-Grupo 7.4"
+                ]
+            },
+            "Classe 2": {
+                "Regra de Validade": "Validade = 1 ano",
+                "Sub-Classe 1": [
+                    "Sub-Grupo 7.5",
+                    "Sub-Grupo 7.6"
+                ]
+            }
+        }
+    }
+}
